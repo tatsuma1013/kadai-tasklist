@@ -12,7 +12,7 @@
         {!! Form::label('content', 'メッセージ:') !!}
         {!! Form::text('content') !!}
 
-        {!! Form::submit('') !!}
+        {!! Form::submit('投稿') !!}
 
     {!! Form::close() !!}
 
